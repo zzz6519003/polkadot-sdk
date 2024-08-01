@@ -211,11 +211,11 @@ that we currently maintain.
 
 ### Using Docker
 
-[Using Docker](../docs/contributor/docker.md)
+[Using Docker](https://github.com/paritytech/polkadot-sdk/blob/master/docs/contributor/docker.md)
 
 ### Shell Completion
 
-[Shell Completion](doc/shell-completion.md)
+[Shell Completion](https://github.com/paritytech/polkadot-sdk/blob/master/polkadot/doc/shell-completion.md)
 
 ## Contributing
 
@@ -229,4 +229,4 @@ that we currently maintain.
 
 ## License
 
-Polkadot is [GPL 3.0 licensed](LICENSE).
+Polkadot is [GPL 3.0 licensed](https://github.com/paritytech/polkadot-sdk/blob/master/polkadot/LICENSE).
