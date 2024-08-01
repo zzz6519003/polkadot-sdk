@@ -147,7 +147,7 @@ Then, grab the Polkadot source code:
 
 ```bash
 git clone https://github.com/paritytech/polkadot-sdk.git
-cd polkadot
+cd polkadot-sdk
 ```
 
 Then build the code. You will need to build in release mode (`--release`) to start a network. Only
@@ -185,7 +185,7 @@ You can run a simple single-node development "network" on your machine by runnin
 cargo run --bin polkadot --release -- --dev
 ```
 
-You can muck around by heading to <https://polkadot.js.org/apps> and choose "Local Node" from the
+You can muck around by heading to <https://polkadot.js.org/apps> and choosing "Local Node" from the
 Settings menu.
 
 ### Local Two-node Testnet
