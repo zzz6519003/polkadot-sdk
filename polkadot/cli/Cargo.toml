@@ -1,6 +1,6 @@
 [package]
 name = "polkadot-cli"
-description = "Polkadot Relay-chain Client Node"
+description = "Polkadot CLI library"
 version = "7.0.0"
 authors.workspace = true
 edition.workspace = true
