@@ -4,9 +4,9 @@
 
 # Polkadot CLI library
 
-</div>
-
 This crate is part of the [Polkadot SDK](https://github.com/paritytech/polkadot-sdk/).
+
+</div>
 
 ## About
 
